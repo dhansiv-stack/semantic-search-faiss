@@ -1,0 +1,7 @@
+name: sentence_transformers
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - sentence-transformers
+  - faiss-cpu
