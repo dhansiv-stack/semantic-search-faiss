@@ -53,6 +53,7 @@ Retrieve Most Relevant Papers
 - pandas
 - NumPy
 - scikit-learn
+- Term Frequency–Inverse Document Frequency (TF-IDF)
 - Sentence Transformers
 - FAISS
 - Cosine Similarity
